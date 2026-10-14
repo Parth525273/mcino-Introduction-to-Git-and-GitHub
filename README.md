@@ -14,6 +14,7 @@ Output
 ```
 
 This project demonstrates basic Git and GitHub workflows.
+This repository is used for practicing Git branching and collaboration.
 
 _© 2022 XYZ, Inc._
 
